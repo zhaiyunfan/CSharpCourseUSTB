@@ -1,0 +1,7 @@
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\bin\Debug\CSharpCourseUSTB.exe.config
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\bin\Debug\CSharpCourseUSTB.exe
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\bin\Debug\CSharpCourseUSTB.pdb
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.csprojAssemblyReference.cache
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.csproj.CoreCompileInputs.cache
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.exe
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.pdb
