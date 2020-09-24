@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSharpCourseUSTB
 {
-    class Class1
+    public class Class1
     {       
-        static void Program1()
+        public static void Program1()
         {
             Console.WriteLine("--------第一题如下：--------");
             double x = 10000.0;
@@ -20,7 +20,7 @@ namespace CSharpCourseUSTB
             Console.WriteLine(x.ToString("0.##") + "元");
             Console.WriteLine("--------第一题如上--------");
         }
-        static void Program2()
+        public static void Program2()
         {
             Console.WriteLine("--------第二题如下：--------");
             Console.WriteLine("请输入待计算的x:");
@@ -29,7 +29,7 @@ namespace CSharpCourseUSTB
             Console.WriteLine(y);
             Console.WriteLine("--------第二题如上--------");
         }
-        static void Program3()
+        public static void Program3()
         {
             Console.WriteLine("--------第三题如下：--------");
             Console.WriteLine("请分行输入矩形的两边长:");
@@ -81,12 +81,6 @@ namespace CSharpCourseUSTB
             Console.WriteLine("--------第三题如上--------");
         }
 
-        static void Main(string[] args)
-        {
-            Program1();
-            Program2();
-            Program3();
-            Console.Read();
-        }
+
     }
 }
