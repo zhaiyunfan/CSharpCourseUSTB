@@ -15,10 +15,13 @@ namespace CSharpCourseUSTB
             //Class1.Program2();
             //Class1.Program3();
 
-            Homework1.Program1();
-            Homework1.Program2();
-            Homework1.Program3();
-            Homework1.Program4();
+            //Homework1.Program1();
+            //Homework1.Program2();
+            //Homework1.Program3();
+            //Homework1.Program4();
+            Homework2.Program1();
+            Homework2.Program2();
+            Homework2.Program3();
             Console.Read();
         }
     }
