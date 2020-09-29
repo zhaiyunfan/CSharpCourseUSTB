@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace CSharpCourse
+namespace CSharpCourseUSTB
 {
     public class Homework3
     {
@@ -59,8 +59,52 @@ namespace CSharpCourse
         public static void Program3()
         {
             Console.WriteLine("--------第三题如下：--------");
-            ArrayList arrayList
+            ArrayList arraylist = new ArrayList();
+            String inputStr;
+            inputStr = Console.ReadLine();
+            while (!inputStr.Equals("over"))
+            {
+                arraylist.Add(Convert.ToSingle(inputStr));
+                inputStr = Console.ReadLine();
+            }
+            foreach (Single item in arraylist)
+            {
+                Console.WriteLine(item);
+            }
             Console.WriteLine("--------第三题如上：--------");
         }
+
+        public static void Program4()
+        {
+            Console.WriteLine("--------第四题如下：--------");
+            Hashtable hashtable = new Hashtable();
+            String inputStr;
+            int inputNum;
+            Console.WriteLine("在姓名栏输入over则结束输入");
+            inputNum = Convert.ToInt32(Console.ReadLine());
+            inputStr = Console.ReadLine();
+            while (!inputStr.Equals("over"))
+            {
+                hashtable.Add(inputNum, inputStr);
+                inputNum = Convert.ToInt32(Console.ReadLine());
+                inputStr = Console.ReadLine();
+            }
+            Console.WriteLine("请循环输入待查学号，输入0结束循环");
+            inputNum = Convert.ToInt32(Console.ReadLine());
+            while (inputNum != 0)
+            {
+                if (hashtable.Contains(inputNum))
+                {
+                    Console.WriteLine(hashtable[inputNum]);
+                }
+                else
+                {
+                    Console.WriteLine("不存在该学号");
+                }
+                inputNum = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("--------第四题如上：--------");
+        }
+
     }
 }
