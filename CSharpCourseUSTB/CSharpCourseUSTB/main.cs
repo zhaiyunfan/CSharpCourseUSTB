@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Windows.Forms;
 
 namespace CSharpCourseUSTB
 {
@@ -29,9 +29,11 @@ namespace CSharpCourseUSTB
             //Homework3.Program3();
             //Homework3.Program4();
 
-            Class2.Program1();
-            Class2.Program2();
-            Console.Read();
+            //Class2.Program1();
+            //Class2.Program2();
+            Application.Run(new Homework4Form1());
+            Application.Run(new Homework4Form2());
+            //Console.Read();
         }
     }
 }

@@ -7,3 +7,7 @@ C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSh
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.exe
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.pdb
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.csprojAssemblyReference.cache
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.csproj.GenerateResource.cache
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Properties.Resources.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework4Form1.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework4Form2.resources
