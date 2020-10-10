@@ -31,8 +31,12 @@ namespace CSharpCourseUSTB
 
             //Class2.Program1();
             //Class2.Program2();
-            Application.Run(new Homework4Form1());
-            Application.Run(new Homework4Form2());
+
+            //Application.Run(new Homework4Form1());
+            //Application.Run(new Homework4Form2());
+
+            Application.Run(new Homework5Form1());
+
             //Console.Read();
         }
     }
