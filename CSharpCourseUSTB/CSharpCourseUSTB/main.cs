@@ -9,6 +9,7 @@ namespace CSharpCourseUSTB
 {
     class main
     {
+        [STAThread]
         static void Main(string[] args)
         {
             //Class1.Program1();
@@ -35,7 +36,15 @@ namespace CSharpCourseUSTB
             //Application.Run(new Homework4Form1());
             //Application.Run(new Homework4Form2());
 
-            Application.Run(new Homework5Form1());
+            //Application.Run(new Homework5Form1());
+
+            //Application.Run(new Homework6Form1());
+
+            //Application.Run(new Class3Form1());
+            //Application.Run(new Class3ParentForm());
+
+            Application.Run(new Homework7Form1());
+            Application.Run(new Homework7Form2());
 
             //Console.Read();
         }

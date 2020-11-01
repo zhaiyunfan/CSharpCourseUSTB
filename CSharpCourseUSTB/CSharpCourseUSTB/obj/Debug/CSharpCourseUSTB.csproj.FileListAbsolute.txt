@@ -13,3 +13,10 @@ C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSh
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework4Form2.resources
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework5Form1.resources
 C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework5Form2.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework6Form1.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Class3Form1.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Class3Form2.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Class3ChildForm.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Class3ParentForm.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework7Form1.resources
+C:\Users\翟云帆\source\repos\zhaiyunfan\CSharpCourseUSTB\CSharpCourseUSTB\CSharpCourseUSTB\obj\Debug\CSharpCourseUSTB.Homework7Form2.resources
