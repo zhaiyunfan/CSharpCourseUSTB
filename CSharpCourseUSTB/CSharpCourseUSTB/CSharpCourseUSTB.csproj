@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ClassLibraryStudent">
+      <HintPath>..\..\..\..\ClassLibraryStudent\ClassLibraryStudent\bin\Debug\ClassLibraryStudent.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -70,6 +73,12 @@
     </Compile>
     <Compile Include="Class3ParentForm.Designer.cs">
       <DependentUpon>Class3ParentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class4Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class4Form1.Designer.cs">
+      <DependentUpon>Class4Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Homework2.cs" />
     <Compile Include="Homework1.cs" />
@@ -117,6 +126,7 @@
       <DependentUpon>Homework7Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="main.cs" />
+    <Compile Include="Postgraduate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -139,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Class3ParentForm.resx">
       <DependentUpon>Class3ParentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class4Form1.resx">
+      <DependentUpon>Class4Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Homework4Form1.resx">
       <DependentUpon>Homework4Form1.cs</DependentUpon>

@@ -21,3 +21,7 @@ C#程序设计
 命名为Homework的是课后作业，命名为Class的是上机作业
 
 使用VS2019在Windows平台上创建，在Linux平台上需重新使用dotnet来创建项目工程并build。
+
+## 项目结构
+
+WinForm+原生C#

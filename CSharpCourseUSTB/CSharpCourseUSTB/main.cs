@@ -43,10 +43,10 @@ namespace CSharpCourseUSTB
             //Application.Run(new Class3Form1());
             //Application.Run(new Class3ParentForm());
 
-            Application.Run(new Homework7Form1());
-            Application.Run(new Homework7Form2());
-
-            //Console.Read();
+            //Application.Run(new Homework7Form1());
+            //Application.Run(new Homework7Form2());
+            Application.Run(new Class4Form1());
+            Console.Read();
         }
     }
 }
